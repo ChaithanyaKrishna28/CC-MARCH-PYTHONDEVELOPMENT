@@ -15,3 +15,5 @@
 
 #task1 preview : https://github.com/krsna28/CC-MARCH-PYTHONDEVELOPMENT/blob/d712c16fd691098523f783b932db3ebfd28f5140/TASK1-RANDOM%20PASSWORD%20GENERATOR/task1-Random%20password%20generator.png
 ![Screenshot (7)](https://user-images.githubusercontent.com/122201792/228839499-e8dac461-66f5-49ff-90e5-75d1caede2c0.png)
+ # Task1 output
+![task1-Random password generator](https://user-images.githubusercontent.com/122201792/228839758-18fb5812-e155-4782-936f-0c3e7656fd89.png)
