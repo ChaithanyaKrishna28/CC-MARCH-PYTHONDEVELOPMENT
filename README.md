@@ -4,7 +4,7 @@
 
 ##TASK 1 :  Random Password Generator in Python
 
-          https://github.com/krsna28/CC-MARCH-PYTHONDEVELOPMENT/tree/main/TASK1-RANDOM%20PASSWORD%20GENERATOR
+            https://github.com/krsna28/CC-MARCH-PYTHONDEVELOPMENT/tree/main/TASK1-RANDOM%20PASSWORD%20GENERATOR
 
 ##TASK2 :  Calculator in Python
 
