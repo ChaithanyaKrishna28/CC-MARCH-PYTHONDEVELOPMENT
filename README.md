@@ -2,7 +2,7 @@
  code clause python development internship
  
 
-##TASK 1 :  Random Password Generator in Python<br>
+##TASK 1 :  Random Password Generator in Python
 
           https://github.com/krsna28/CC-MARCH-PYTHONDEVELOPMENT/tree/main/TASK1-RANDOM%20PASSWORD%20GENERATOR
 
